@@ -1,3 +1,4 @@
+--edit file for test
 WITH CTE AS (
 
 select
@@ -15,4 +16,5 @@ order by TRIP_DATE desc
 
 select
 *
+
 from CTE
